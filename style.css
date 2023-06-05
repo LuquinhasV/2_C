@@ -1,3 +1,8 @@
 header {
     background-color: red;
+    color: gold;
+}
+
+.cabecalho-imagem{
+    width: 20%;
 }
