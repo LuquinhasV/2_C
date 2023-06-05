@@ -1,27 +1,30 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  
+  margin: 0%;
+  padding: 0%;
 }
 
-.cabecalho {
-    background-color: red;
-    color: gold;
+.cabeçalho{
+    background-color: lemonchiffon;
+    color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
 
-.cabecalho-imagem{
-    width: 20%;
+.cabeçalho_imagem{
+    width: 12%;
 }
 
-.cabecalho-lista-item{
-    display: inline-block;
+.cabeçalho_titulo{
+    font-size: 50px;
+}
+
+.cabeçalho_lista_item{
     margin: 25px 0px 25px 0px;
     font-size: 16px;
 }
-    
 
 .apresentaçao_trabalho{
     background-image: linear-gradient(lemonchiffon, #dd371a);
@@ -30,3 +33,12 @@
     align-items: center;
     padding: 24px 0;
 }
+
+.titulo_apresentaçao_trabalho{
+    font-size: 30px;
+}
+
+.imagem_arvore{
+    width: 15%;
+}
+    
