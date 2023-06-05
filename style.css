@@ -5,7 +5,7 @@
 }
 
 .cabeçalho{
-    background-color: lemonchiffon;
+    background-color: rgb(255, 0, 0);
     color: black;
     display: flex;
     justify-content: space-around;
@@ -27,7 +27,7 @@
 }
 
 .apresentaçao_trabalho{
-    background-image: linear-gradient(lemonchiffon, #dd371a);
+    background-image: linear-gradient(rgb(255, 0, 0), #d68409);
     display: flex;
     justify-content: space-around;
     align-items: center;
