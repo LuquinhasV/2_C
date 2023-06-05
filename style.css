@@ -1,6 +1,7 @@
-header {
+.cabecalho {
     background-color: red;
     color: gold;
+    display: flex;
 }
 
 .cabecalho-imagem{
