@@ -1,11 +1,15 @@
-* {
+*
+.body{
+    background-image: linear-gradient(to bottom red, orange);
+}
+ {
   
   margin: 0%;
   padding: 0%;
 }
 
 .cabeçalho{
-    background-color: rgb(212, 20, 20);
+
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
@@ -27,7 +31,7 @@
 }
 
 .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(212, 20, 20), #d68409);
+    
     display: flex;
     justify-content: space-around;
     align-items: center;
