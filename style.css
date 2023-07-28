@@ -1,7 +1,7 @@
 .corpo
 
 .cabeçalho{
-    background-color: lemonchiffon;
+    background-color: rgb(252, 12, 12);
     color: black;
     display: flex;
     justify-content: space-around;
