@@ -1,8 +1,7 @@
-.corpo{
-    background-image: linear-gradient(rgb(245, 238, 238), #dd371a);
-}
+.corpo
 
 .cabeçalho{
+    background-color: lemonchiffon;
     color: black;
     display: flex;
     justify-content: space-around;
@@ -24,6 +23,7 @@
 }
 
 .apresentaçao_trabalho{
+    background-image: linear-gradient(rgb(245, 238, 238), #dd371a);
     display: flex;
     justify-content: space-around;
     align-items: center;
