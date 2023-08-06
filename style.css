@@ -1,7 +1,9 @@
-.corpo
+.corpo{
+    background-image: linear-gradient(lemonchiffon, #dd371a);
+}
 
 .cabeçalho{
-    background-color: rgb(252, 12, 12);
+    
     color: black;
     display: flex;
     justify-content: space-around;
@@ -23,7 +25,7 @@
 }
 
 .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(243, 37, 37),rgb(255, 192, 74),);
+    
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -40,7 +42,8 @@
 
 .Pimen{
     width: 25%;
- 
+}
+
 .mudando{
     width: 20%;
 }
