@@ -3,14 +3,14 @@
 }
 
 .cabeçalho{
-    
+
     color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
     }
-    
+
 .cabeçalho_imagem{
     width: 12%;
 }
@@ -25,7 +25,7 @@
 }
 
 .apresentaçao_trabalho{
-    
+
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -46,4 +46,47 @@
 
 .mudando{
     width: 20%;
+    margin:-190px 50px 0px -1px ; ;
+}
+
+.lucas3{
+    margin:-300px 50px 0px 500px ;
+    font-size: 25px;
+}
+.lucas4{
+    margin:500px 50px 0px 400px ;
+    font-size: 25px;
+}
+
+.terceira{
+    width: 25%;
+    margin: 0px 100px 0px;
+}
+
+.terceira2{
+    width: 25%;
+}
+
+.terceira3{
+    width: 25%;
+    margin: 0px 100px 0px;
+}
+
+.lucas5{
+    margin: 10px 10px 0px 30px;
+    font-size: 25px;
+}    
+
+.quarta{
+    width: 25%;
+}
+
+.quarta2{
+    width: 25%;
+    margin: 0px 460px 0px;
+}
+
+.lucas6{
+    margin: 10px 10px 20px;
+    font-size: 25px;
 }
