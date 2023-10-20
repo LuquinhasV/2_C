@@ -1,3 +1,8 @@
+*{
+    margin: 0%;
+    padding: 1%;
+}
+
 .corpo{
     background-image: linear-gradient(lemonchiffon, #dd371a);
 }
